@@ -1,0 +1,17 @@
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\bin\Debug\net6.0-windows\Calculator Application.exe
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\bin\Debug\net6.0-windows\Calculator Application.deps.json
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\bin\Debug\net6.0-windows\Calculator Application.runtimeconfig.json
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\bin\Debug\net6.0-windows\Calculator Application.dll
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\bin\Debug\net6.0-windows\Calculator Application.pdb
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator_Application.Form1.resources
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.csproj.GenerateResource.cache
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.AssemblyInfoInputs.cache
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.AssemblyInfo.cs
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.dll
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\refint\Calculator Application.dll
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.pdb
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\Calculator Application.genruntimeconfig.cache
+C:\Users\Ann\source\repos\calculator\Practicee\Info\Calculator Application\Calculator Application\Calculator Application\obj\Debug\net6.0-windows\ref\Calculator Application.dll
